@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-conversations", "title": "Conversation Listening", "exam": "TOEFL", "area": "TOEFL Reading and Listening", "desc": "Listen to short campus and daily-life conversations read by two voices, then answer questions.", "content": ["listening.json"], "n": 62};
